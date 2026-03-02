@@ -12,16 +12,6 @@
 - 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
 - 🔭 如果你有好的点子，请告诉我，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
-### 🕊️ GitHub Stats
-
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=NixaVulpi&show_icons=true&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/NixaVulpi#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=NixaVulpi&show_icons=true&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/NixaVulpi#gh-light-mode-only)
-
-### 🚀 Most Used Languages
-
-[![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=NixaVulpi&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/NixaVulpi#gh-dark-mode-only)
-[![Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=NixaVulpi&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/NixaVulpi#gh-light-mode-only)
-
 ### 🎃 End
 
 > [!TIP]
